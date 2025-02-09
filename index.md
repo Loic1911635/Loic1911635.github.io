@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Home
+layout: default
+title: Mon Portfolio
 landing-title: 'Hi, Welcome to my Portfolio!'
 description: null
 image: null
