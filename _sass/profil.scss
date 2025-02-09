@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    align-items: center; // Aligne verticalement l'image et le titre
+  }
+  
+  .profile-image {
+    margin-right: 20px; // Ajoute de l'espace entre l'image et le titre
+    width: 250px; // Ajuste la taille
+    height: 250px;
+    border-radius: 50%; // Rend l'image ronde
+  }
+  
+  .landing-title {
+    font-size: 2.5em; // Ajuste la taille du titre si nécessaire
+  }
+  
