@@ -1,10 +1,11 @@
 # site settings
+theme: forty-jekyll-theme-master
 title: Loïc Ramelot
 subtitle: Portfolio
 email: ramlo453@school.lu
 description: Cybersecurity student & Network/Computer builder
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://loic1911635.github.io # the base hostname & protocol for your site
 author:
 street_address: 39 Nacherstrooss
 city: Nocher-Route
