@@ -1,5 +1,8 @@
 # site settings
-theme: forty-jekyll-theme-master
+# theme: forty-jekyll-theme-master
+remote_theme: your-theme-author/forty-jekyll-theme
+plugins:
+  - jekyll-remote-theme
 title: Loïc Ramelot
 subtitle: Portfolio
 email: ramlo453@school.lu
