@@ -1,5 +1,5 @@
 # site settings
-remote_theme: "html5up/forty"
+remote_theme: "html5up/forty@master"
 title: Loïc Ramelot
 subtitle: Portfolio
 email: ramlo453@school.lu
