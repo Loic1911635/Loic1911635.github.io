@@ -1,5 +1,5 @@
 # site settings
-theme: minima
+theme: remote_theme: Forty Theme
 title: Loïc Ramelot
 subtitle: Portfolio
 email: ramlo453@school.lu
